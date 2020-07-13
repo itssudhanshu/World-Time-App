@@ -1,16 +1,27 @@
-# world_time
+<p align="center">
+  <img src="https://github.com/itssudhanshu/CareIndia/blob/master/assets/icons/protection.png" width="150">
+</p>
+<p align="center">(Android/iOS)</p>
+<h1 align="center">WorldTime</h1>  
 
-A new Flutter project.
+<p align="center"> 
+  <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
+    <img src="https://img.shields.io/badge/Download App-WorldTime-blue.svg?style=for-the-badge">
+  </a> 
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Deployment
+Apk Link:   
 
-A few resources to get you started if this is your first Flutter project:
+ <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
+    <img src="https://img.shields.io/badge/Download App-WorldTime-blue.svg?style=for-the-badge">
+  </a>  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<h3>Building</h3>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Android Release: `flutter build apk` 
+
+Android (arm64-v8a)/(armeabi-v7a): `flutter build apk --split-per-abi`  
+
+If you have a connected device or emulator you can run and deploy the app with `flutter run` 
