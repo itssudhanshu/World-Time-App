@@ -8,8 +8,11 @@
   <a href="https://github.com/itssudhanshu/World-Time-App/blob/master/app-release.apk?raw=true">
     <img src="https://img.shields.io/badge/Download App-WorldTime-blue.svg?style=for-the-badge">
   </a> 
-</p>
+</p>  
 
+## Screenshots
+
+<img src="screenshots/tia1635708055.png" height="300" width="200" hspace="10"><img src="screenshots/tia1710633641.png" height="300" width="200" hspace="10">
 
 ## Deployment
 Apk Link:   
